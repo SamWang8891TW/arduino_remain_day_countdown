@@ -1,9 +1,9 @@
 # TVE-countdown 統測倒數器
-
+.
 THIS REPO HAS NOT FINISHED YET
 這個項目尚未完成
-
-
+.
+.
 中文(zh_TW)：
 這是一個使用簡易C++、arduino及常見模組的統測倒數器。
 
